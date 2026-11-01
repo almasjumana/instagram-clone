@@ -1,0 +1,133 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "username": "maria___here",
+      "profilePic": "Images/profile1.jpg",
+      "postImage": "Images/mounatin.webp",
+      "caption": "Mountain && Me!!🚀",
+      "likes": 245,
+      "comments": [
+        {
+          "username": "john_dev",
+          "comment": "Amazingg! 🔥"
+        },
+        {
+          "username": "coder_girl",
+          "comment": "Perfectt one💯"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "username": "travel_with_me",
+      "profilePic": "Images/profile2.jpg",
+      "postImage": "Images/sunset-beach.jpg",
+      "caption": "Beautiful sunset 🌅✨",
+      "likes": 560,
+      "comments": [
+        {
+          "username": "naturelover",
+          "comment": "Amazing view ❤️"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "username": "food_diary",
+      "profilePic": "Images/profile3.jpg",
+      "postImage": "Images/foodspot.jpg",
+      "caption": "Best Food Spot is here🍕😋",
+      "likes": 320,
+      "comments": [
+        {
+          "username": "arun",
+          "comment": "Location pls? 🤤"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "username": "fitness_journey",
+      "profilePic": "Images/profile4.jpg",
+      "postImage": "Images/fitness.jpg",
+      "caption": "Small steps every day 💪",
+      "likes": 410,
+      "comments": [
+        {
+          "username": "gym_rat",
+          "comment": "Motivated🔥"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "username": "views of_world",
+      "profilePic": "Images/profile5.jpg",
+      "postImage": "Images/photography.jpg",
+      "caption": "Capturing little moments 📸",
+      "likes": 890,
+      "comments": [
+        {
+          "username": "lavnyaa",
+          "comment": "Beautiful shot 😍"
+        }
+      ]
+    }
+  ],
+  "profile": {
+    "id": 1,
+    "username": "maria.here",
+    "profilePic": "/Images/profile1.jpg",
+    "profile_pic": "/Images/profile.jpg"
+  },
+  "suggestions": [
+    {
+      "id": "2",
+      "username": "travel_with_me",
+      "profilePic": "/Images/profile2.jpg"
+    },
+    {
+      "id": "5",
+      "username": "views of_world",
+      "profilePic": "/Images/profile5.jpg"
+    },
+    {
+      "id": "4",
+      "username": "fitness_journey",
+      "profilePic": "Images/profile4.jpg"
+    },
+    {
+      "id": "3",
+      "username": "food_diary",
+      "profilePic": "Images/profile3.jpg"
+    }
+  ],
+  "stories": [
+    {
+      "id": "101",
+      "username": "maria___here",
+      "profilePic": "/Images/profile1.jpg",
+      "image": "/Images/story1.webp"
+    },
+    {
+      "id": "102",
+      "username": "travel_with_me",
+      "profilePic": "/Images/profile2.jpg",
+      "image": "/Images/story2.jpg"
+    },
+    {
+      "id": "103",
+      "username": "fitness_journey",
+      "profilePic": "/Images/profile4.jpg",
+      "image": "/Images/story3.jpg"
+    }
+  ],
+  "followers": [
+    {
+      "id": "hnOApebCvy8",
+      "username": "food_diary"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
